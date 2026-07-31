@@ -56,7 +56,7 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: **Add your LinkedIn profile link here**
+- 💼 LinkedIn: https://www.linkedin.com/in/sakthivel-s-010920-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
