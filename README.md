@@ -29,7 +29,6 @@
 
 - 🎓 Student Management System
 - 🤖 InfraGuardAI
-- ☕ Java DSA Programs
 - 🌐 Web Development Projects
 
 ---
